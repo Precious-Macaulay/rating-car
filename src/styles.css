@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind component;
+@tailwind utilities;
+
+.w-100{
+    width: 28.5rem;
+}
+
